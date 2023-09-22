@@ -1,6 +1,6 @@
 {
-    "name": "gizra/robo-phpcs",
-    "description": "Coding standard check Robo command as PHP trait",
+    "name": "gizra/robo-bootstrap",
+    "description": "Bootstraps a new Drupal project on Pantheon: Robo command as PHP trait",
     "type": "library",
     "require": {
         "consolidation/robo": "^4.0"
